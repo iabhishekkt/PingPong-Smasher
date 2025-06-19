@@ -1,6 +1,6 @@
-# 🏓 Ping Pong Arcade (C++ with Raylib)
+# 🏓 Ping Pong Smasher (C++ with Raylib)
 
-Welcome to **Ping Pong Arcade** – a classic Pong-inspired game created using Raylib Library! This is a beginner C++ project aimed at learning how to build real-time games with graphics, input handling, object-oriented programming, and simple AI.
+Welcome to **Ping Pong Smasher** – a classic Pong-inspired game created using Raylib Library! This is a beginner C++ project aimed at learning how to build real-time games with graphics, input handling, object-oriented programming, and simple AI.
 
 ---
 
